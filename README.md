@@ -13,7 +13,14 @@ The first image below is the dataset before I made these changes, and the second
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-<img width="1111" alt="coffeesales2" src="https://github.com/idcruz99/Interactive-Sales-Dashboard/assets/160052201/93d6d2eb-023d-4ed0-bcb2-8296a8a3a4ad">
+<img width="1112" alt="coffeesales2" src="https://github.com/idcruz99/Interactive-Sales-Dashboard/assets/160052201/93d6d2eb-023d-4ed0-bcb2-8296a8a3a4ad">
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+<img width="1112" alt="coffeesales3" src="https://github.com/idcruz99/Interactive-Sales-Dashboard/assets/160052201/36b83a9c-c40c-49ad-963e-49a3f81727e7">
+
+---------------------------------------------------------------------------------------------------------------------------
+
+<h1>Creating Visuals</h1>
+
+After all of the data that I needed to create the visuals was on one page, I was ready to create the pivot tables, timeline, and slicers. 
