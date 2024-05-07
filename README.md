@@ -31,3 +31,7 @@ After all of the data that I needed to create the visuals was on one page, I was
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+<img width="1112" alt="coffeesales5" src="https://github.com/idcruz99/Interactive-Sales-Dashboard/assets/160052201/80bc0634-575c-4c99-ac1f-d90dc48e13ed">
+
+---------------------------------------------------------------------------------------------------------------------------
+
