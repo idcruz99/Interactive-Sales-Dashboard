@@ -27,4 +27,7 @@ After all of the data that I needed to create the visuals was on one page, I was
 
 ---------------------------------------------------------------------------------------------------------------------------
 
+<img width="1112" alt="coffeesales4" src="https://github.com/idcruz99/Interactive-Sales-Dashboard/assets/160052201/cb4bd3eb-93d1-49a2-b0b3-29c683128173">
+
+---------------------------------------------------------------------------------------------------------------------------
 
