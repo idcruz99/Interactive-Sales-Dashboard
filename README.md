@@ -23,4 +23,8 @@ The first image below is the dataset before I made these changes, and the second
 
 <h1>Creating Visuals</h1>
 
-After all of the data that I needed to create the visuals was on one page, I was ready to create the pivot tables, timeline, and slicers. 
+After all of the data that I needed to create the visuals was on one page, I was ready to add the pivot tables, timeline, and slicers. To show the total sales over time, I used a line graph with the coffee type name as the legend, and the date of each order in months and years as the axis. To display only the top 5 customers out of the hundreds of customers in the dataset, I used the 'top N' filter and set it to 5. The last visual I added is the Sales By Country bar chart, which shows the top 3 countries for each specific order filter that the user selects. With the completed interactive dashboard, you can see who the top customers and highest paying countries are for any time period, coffee roast type, and coffee size.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
